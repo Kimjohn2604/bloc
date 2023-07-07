@@ -1,0 +1,1 @@
+enum blocEvent{ login}
